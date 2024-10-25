@@ -21,3 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhisham55&show_icons=true&theme=dracula&locale=en" alt="omarhisham55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhisham55&theme=dark" alt="omarhisham55" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
