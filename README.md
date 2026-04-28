@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhisham55" alt="omarhisham55" /></a> </p>
 
-- 🔭 I’m currently working at **-**
+- 🔭 I’m currently working at **SND**
 
-- 🌱 I’m currently learning **javascript | Nodejs | MongoDB**
+<!-- - 🌱 I’m currently learning **javascript | Nodejs | MongoDB** -->
 
 - 👨‍💻 All of my projects are available at [omarhisham55.github.io](omarhisham55.github.io)
 
